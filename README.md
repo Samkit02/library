@@ -41,8 +41,8 @@ This project is a simple **CRUD (Create, Read, Update, Delete)** application bui
    cd library-management-system
    ```
 
-2. **Configure MySQL Database**:
-   - Create a MySQL database named `library`.
+2. **Configure PostgreSQL Database**:
+   - Create a PostgreSQL database named `library`.
    - Update the `application.properties` file located in `src/main/resources`:
      ```properties
      spring.datasource.url=jdbc:postgresql://localhost:5432/(database_name)
