@@ -18,7 +18,7 @@ This project is a simple **CRUD (Create, Read, Update, Delete)** application bui
 - **Java**: Programming language.
 - **Spring Boot**: Framework for building the application.
 - **Spring Data JPA**: For database operations.
-- **MySQL**: Database to store book records.
+- **PostgreSQL**: Database to store book records.
 - **Hibernate**: ORM for mapping Java objects to database tables.
 - **Maven**: Build automation tool.
 - **Postman**: API testing.
@@ -29,7 +29,7 @@ This project is a simple **CRUD (Create, Read, Update, Delete)** application bui
 ## **Prerequisites**
 1. **Java Development Kit (JDK)** (version 11 or higher).
 2. **Maven**: Ensure it's installed and configured.
-3. **MySQL**: A running MySQL database instance.
+3. **PostgreSQL**: A running PostgreSQL database instance.
 4. **IDE**: IntelliJ IDEA, Eclipse, or your preferred IDE.
 
 ---
